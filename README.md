@@ -50,14 +50,6 @@ Install / Enable IIS in Windows WITH CGI. World Wide Web Services -> Application
 <br />
 
 <p>
-<img width="2868" height="1562" alt="image" src="https://github.com/user-attachments/assets/d33c3d89-6c3f-4dd7-9bc2-0358ba0a0928" />
-</p>
-<p>
-Install / Enable IIS in Windows WITH CGI. World Wide Web Services -> Application Development Features -> [X] CGI
-</p>
-<br />
-
-<p>
 <img width="2880" height="1518" alt="image" src="https://github.com/user-attachments/assets/d80dff20-ddd3-43fe-86af-80546e5cf392" />
 </p>
 <p>
