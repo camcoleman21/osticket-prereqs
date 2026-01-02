@@ -73,9 +73,78 @@ From the “osTicket-Installation-Files” folder, install the Rewrite Module (r
 <br />
 
 <p>
-<img width="2868" height="1562" alt="image" src="https://github.com/user-attachments/assets/d33c3d89-6c3f-4dd7-9bc2-0358ba0a0928" />
+<img width="2880" height="1714" alt="image" src="https://github.com/user-attachments/assets/91458d99-d538-4269-84c3-66a39017d3ea" />
 </p>
 <p>
-Install / Enable IIS in Windows WITH CGI. World Wide Web Services -> Application Development Features -> [X] CGI
+Create the directory C:\PHP. From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder. </p>
+<br />
+
+<p>
+<img width="2880" height="1478" alt="image" src="https://github.com/user-attachments/assets/92074847-f47d-44a5-8a0b-e8115cbff55c" />
 </p>
+<p>
+From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe. </p>
+<br />
+
+<p>
+<img width="2880" height="1578" alt="image" src="https://github.com/user-attachments/assets/1024ead9-a374-46fe-a8d9-9398a31627e0" />
+</p>
+<p>
+From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> enter username and password.  </p>
+<br />
+
+<p>
+<img width="2400" height="1558" alt="image" src="https://github.com/user-attachments/assets/bbd596f3-952d-4340-8a61-ae09c6bc0cb1" />
+</p>
+<p>
+Open IIS as an Admin. Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe) </p>
+<br />
+
+<p>
+<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server) </p>
+<br />
+
+<p>
+<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server) </p>
+<br />
+
+<p>
+<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server) </p>
+<br />
+
+<p>
+<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server) </p>
+<br />
+
+<p>
+<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server) </p>
+<br />
+
+<p>
+<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server) </p>
+<br />
+
+<p>
+<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server) </p>
 <br />
