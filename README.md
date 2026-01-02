@@ -108,24 +108,24 @@ Reload IIS (Open IIS, Stop and Start the server) </p>
 <br />
 
 <p>
-<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+<img width="2880" height="1708" alt="image" src="https://github.com/user-attachments/assets/0952bed7-d55f-4e29-be8b-32ee269cfa99" />
 </p>
 <p>
-Reload IIS (Open IIS, Stop and Start the server) </p>
+Install osTicket v1.15.8. From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”. Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”. </p>
+<br />
+
+<p>
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/af4e0cb1-da9d-474e-9b3b-8010a5016582" />
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server) Go to sites -> Default -> osTicket. On the right, click “Browse *:80” </p>
 <br />
 
 <p>
 <img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
 </p>
 <p>
-Reload IIS (Open IIS, Stop and Start the server) </p>
-<br />
-
-<p>
-<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
-</p>
-<p>
-Reload IIS (Open IIS, Stop and Start the server) </p>
+Go back to IIS, sites -> Default -> osTicket. Double-click PHP Manager, and click “Enable or disable an extension”. Enable php_imap.dll, php_intl.dll, and php_opcache.dll. Refresh the osTicket site in your browser, and observe the changes. </p>
 <br />
 
 <p>
