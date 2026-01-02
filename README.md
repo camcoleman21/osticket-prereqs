@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2872" height="1472" alt="image" src="https://github.com/user-attachments/assets/3c74772c-e180-4760-9371-567f33cfe3e7" />
 </p>
 <p>
 Create an Azure Virtual Machine Windows 10, 4 vCPUs. Log in to the VM with Remote Desktop.
@@ -35,17 +35,16 @@ Create an Azure Virtual Machine Windows 10, 4 vCPUs. Log in to the VM with Remot
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2880" height="1726" alt="image" src="https://github.com/user-attachments/assets/106cd24a-1669-4933-af18-4066ae9aab82" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Within the VM, download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2868" height="1562" alt="image" src="https://github.com/user-attachments/assets/d33c3d89-6c3f-4dd7-9bc2-0358ba0a0928" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install / Enable IIS in Windows WITH CGI. World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
 <br />
