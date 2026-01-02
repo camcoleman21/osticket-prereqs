@@ -48,3 +48,34 @@ Within the VM, download the osTicket-Installation-Files.zip and unzip it onto yo
 Install / Enable IIS in Windows WITH CGI. World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
 <br />
+
+<p>
+<img width="2868" height="1562" alt="image" src="https://github.com/user-attachments/assets/d33c3d89-6c3f-4dd7-9bc2-0358ba0a0928" />
+</p>
+<p>
+Install / Enable IIS in Windows WITH CGI. World Wide Web Services -> Application Development Features -> [X] CGI
+</p>
+<br />
+
+<p>
+<img width="2880" height="1518" alt="image" src="https://github.com/user-attachments/assets/d80dff20-ddd3-43fe-86af-80546e5cf392" />
+</p>
+<p>
+From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)</p>
+<br />
+
+<p>
+<img width="2880" height="1508" alt="image" src="https://github.com/user-attachments/assets/33b06650-7279-44f3-80b1-31bc6879baaf" />
+</p>
+<p>
+From the “osTicket-Installation-Files” folder, install the Rewrite Module (rewrite_amd64_en-US.msi)
+</p>
+<br />
+
+<p>
+<img width="2868" height="1562" alt="image" src="https://github.com/user-attachments/assets/d33c3d89-6c3f-4dd7-9bc2-0358ba0a0928" />
+</p>
+<p>
+Install / Enable IIS in Windows WITH CGI. World Wide Web Services -> Application Development Features -> [X] CGI
+</p>
+<br />
