@@ -1,4 +1,3 @@
-<img width="2718" height="1296" alt="image" src="https://github.com/user-attachments/assets/aec0c0d6-5abb-47e8-b8cd-4753fb17c0a2" /><p align="center">
 <img width="700" height="208" alt="image" src="https://github.com/user-attachments/assets/21a22a2f-c734-453b-b4b2-f4b0e0b7cd01" />
 </p>
 
@@ -158,7 +157,7 @@ Continue setting up osTicket in the browser. MySQL Database: osTicket, MySQL use
 <br />
 
 <p>
-<img width="2820" height="1562" alt="image" src="https://github.com/user-attachments/assets/df20276e-8a28-4c9b-805f-c5f2129f725c" />
+<img width="2864" height="1640" alt="image" src="https://github.com/user-attachments/assets/51c340a1-e50f-4da1-8eb2-cf7a37ca152b" />
 </p>
 <p>
 Congratulations, hopefully it is installed with no errors! Browse to your help desk login page: http://localhost/osTicket/scp/login.php </p>
