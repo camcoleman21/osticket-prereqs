@@ -114,29 +114,59 @@ Reload IIS (Open IIS, Stop and Start the server) Go to sites -> Default -> osTic
 <br />
 
 <p>
-<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+<img width="2880" height="1720" alt="image" src="https://github.com/user-attachments/assets/6a341165-ef11-4e1d-890c-0a2672b0b32f" />
 </p>
 <p>
 Go back to IIS, sites -> Default -> osTicket. Double-click PHP Manager, and click “Enable or disable an extension”. Enable php_imap.dll, php_intl.dll, and php_opcache.dll. Refresh the osTicket site in your browser, and observe the changes. </p>
 <br />
 
 <p>
-<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+<img width="2880" height="1716" alt="image" src="https://github.com/user-attachments/assets/957c8a75-5a90-4d68-a709-691d9188099f" />
 </p>
 <p>
-Reload IIS (Open IIS, Stop and Start the server) </p>
+Rename: ost-config.php from: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php </p>
 <br />
 
 <p>
-<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+<img width="2880" height="1686" alt="image" src="https://github.com/user-attachments/assets/9e86448c-dab4-4580-b471-e988e3a3aeb3" />
 </p>
 <p>
-Reload IIS (Open IIS, Stop and Start the server) </p>
+Assign Permissions for ost-config.php. Disable inheritance -> Remove All, New Permissions -> Everyone -> All </p>
 <br />
 
 <p>
-<img width="1172" height="740" alt="image" src="https://github.com/user-attachments/assets/1d71e153-00b6-4ccb-9c2f-1a61dfda7029" />
+<img width="2820" height="1562" alt="image" src="https://github.com/user-attachments/assets/df20276e-8a28-4c9b-805f-c5f2129f725c" />
 </p>
 <p>
-Reload IIS (Open IIS, Stop and Start the server) </p>
+Continue Setting up osTicket in the browser (click Continue). Name "Helpdesk" and select a Default email (receives email from customers). Fill out the admin user information. </p>
+<br />
+
+<p>
+<img width="2820" height="1562" alt="image" src="https://github.com/user-attachments/assets/df20276e-8a28-4c9b-805f-c5f2129f725c" />
+</p>
+<p>
+From the “osTicket-Installation-Files” folder, install HeidiSQL. Open HeidiSQL, create a new session, enter mySQL username/password, connect to the session
+and create a database called “osTicket”
+ </p>
+<br />
+
+<p>
+<img width="2820" height="1562" alt="image" src="https://github.com/user-attachments/assets/df20276e-8a28-4c9b-805f-c5f2129f725c" />
+</p>
+<p>
+Continue Setting up osTicket in the browser (click Continue). Name "Helpdesk" and select a Default email (receives email from customers) </p>
+<br />
+
+<p>
+<img width="2820" height="1562" alt="image" src="https://github.com/user-attachments/assets/df20276e-8a28-4c9b-805f-c5f2129f725c" />
+</p>
+<p>
+Continue Setting up osTicket in the browser (click Continue). Name "Helpdesk" and select a Default email (receives email from customers) </p>
+<br />
+
+<p>
+<img width="2820" height="1562" alt="image" src="https://github.com/user-attachments/assets/df20276e-8a28-4c9b-805f-c5f2129f725c" />
+</p>
+<p>
+Continue Setting up osTicket in the browser (click Continue). Name "Helpdesk" and select a Default email (receives email from customers) </p>
 <br />
