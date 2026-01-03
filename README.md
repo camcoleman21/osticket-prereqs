@@ -1,4 +1,4 @@
-<p align="center">
+<img width="2718" height="1296" alt="image" src="https://github.com/user-attachments/assets/aec0c0d6-5abb-47e8-b8cd-4753fb17c0a2" /><p align="center">
 <img width="700" height="208" alt="image" src="https://github.com/user-attachments/assets/21a22a2f-c734-453b-b4b2-f4b0e0b7cd01" />
 </p>
 
@@ -138,11 +138,11 @@ Assign Permissions for ost-config.php. Disable inheritance -> Remove All, New Pe
 <img width="2820" height="1562" alt="image" src="https://github.com/user-attachments/assets/df20276e-8a28-4c9b-805f-c5f2129f725c" />
 </p>
 <p>
-Continue Setting up osTicket in the browser (click Continue). Name "Helpdesk" and select a Default email (receives email from customers). Fill out the admin user information. </p>
+Continue setting up osTicket in the browser (click Continue). Name "Helpdesk" and select a Default email (receives email from customers). Fill out the admin user information. </p>
 <br />
 
 <p>
-<img width="2820" height="1562" alt="image" src="https://github.com/user-attachments/assets/df20276e-8a28-4c9b-805f-c5f2129f725c" />
+<img width="2718" height="1296" alt="image" src="https://github.com/user-attachments/assets/b4c46eeb-072d-459e-8d8b-d95dfd28c548" />
 </p>
 <p>
 From the “osTicket-Installation-Files” folder, install HeidiSQL. Open HeidiSQL, create a new session, enter mySQL username/password, connect to the session
@@ -151,22 +151,15 @@ and create a database called “osTicket”
 <br />
 
 <p>
-<img width="2820" height="1562" alt="image" src="https://github.com/user-attachments/assets/df20276e-8a28-4c9b-805f-c5f2129f725c" />
+<img width="2868" height="924" alt="image" src="https://github.com/user-attachments/assets/c32ec226-a1b9-4ac6-b5cd-f097598aff6f" />
 </p>
 <p>
-Continue Setting up osTicket in the browser (click Continue). Name "Helpdesk" and select a Default email (receives email from customers) </p>
+Continue setting up osTicket in the browser. MySQL Database: osTicket, MySQL user name and password, and click “Install Now!” </p>
 <br />
 
 <p>
 <img width="2820" height="1562" alt="image" src="https://github.com/user-attachments/assets/df20276e-8a28-4c9b-805f-c5f2129f725c" />
 </p>
 <p>
-Continue Setting up osTicket in the browser (click Continue). Name "Helpdesk" and select a Default email (receives email from customers) </p>
-<br />
-
-<p>
-<img width="2820" height="1562" alt="image" src="https://github.com/user-attachments/assets/df20276e-8a28-4c9b-805f-c5f2129f725c" />
-</p>
-<p>
-Continue Setting up osTicket in the browser (click Continue). Name "Helpdesk" and select a Default email (receives email from customers) </p>
+Congratulations, hopefully it is installed with no errors! Browse to your help desk login page: http://localhost/osTicket/scp/login.php </p>
 <br />
